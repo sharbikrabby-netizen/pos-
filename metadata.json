@@ -1,0 +1,5 @@
+{
+  "name": "Gemini POS System",
+  "description": "A modern, intuitive Point of Sale (POS) application designed to streamline sales, customer, and product management. Built with React and Tailwind CSS for a seamless user experience.",
+  "requestFramePermissions": []
+}
